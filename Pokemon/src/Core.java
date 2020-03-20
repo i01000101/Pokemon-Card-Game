@@ -357,7 +357,7 @@ public class Core extends JPanel implements ActionListener, MouseListener, Mouse
                 mainScreen.repaint();
             
             if(mainScreen.players[0].getClass() == new HumanPlayer().getClass()){
-                mainScreen.distructions.setText("SELECT A CART");
+                mainScreen.distructions.setText("SELECT A CARD");
                 mainScreen.distructions.setBounds(480, 600, 500, 100);
                 mainScreen.distructions.setVisible(true);
             }    
