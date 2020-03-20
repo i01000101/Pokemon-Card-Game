@@ -7,7 +7,7 @@ Main menu
 ![Screenshot](Screenshot1.png)
 
 Selecting card
-![Screenshot](sc2.png)
+
 
 Fight ainmation
 ![Screenshot](sc3.png)
